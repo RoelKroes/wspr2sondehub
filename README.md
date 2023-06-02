@@ -1,10 +1,10 @@
 # wspr2sondehub
 
-wspr2sondehub is a simple program written in PHP to scrape the wspr database for High Altitude Balloons, decode the telemetry, log the telemetry in a local file and post the telemetry on amateur.sondehub.org
-It is very, very basic but it runs.
+wspr2sondehub is a simple program written in PHP to scrape the wspr database every 5 minutes for telemetry from High Altitude Balloons, decode this telemetry, log the telemetry in a local file and post the telemetry on amateur.sondehub.org
+It is still very, very basic but it runs.
 
 The program follows the protocol as described at: https://www.qrp-labs.com/flights/s4#protocol
-Currently I use it for my own balloons. Feel free to use or modify it.
+Currently I use it for my own balloons. 
 
 The program is written in PHP and can be installed on almost any computer.
 
