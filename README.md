@@ -20,7 +20,7 @@ Windows Example:
 extension=curl
 
 # settings
-First open the settings.php file and change the settings to your liking.
+First open the settings.php file and change the settings. This is very important.
 
 # Run the program
 Run the program from the command line:
