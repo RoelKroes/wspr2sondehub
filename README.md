@@ -8,6 +8,8 @@ Currently I use it for my own balloons.
 
 The program is written in PHP and can be installed on almost any computer.
 
+Feel free to improve and use this program.
+
 # php
 You can find many webpages on how to install PHP on Windows and Unix.
 
