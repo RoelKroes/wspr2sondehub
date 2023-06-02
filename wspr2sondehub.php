@@ -18,7 +18,7 @@ function init_setup()
    // We need the program to run in UTC time
    date_default_timezone_set('UTC');
    echo "Current date/time: ";
-   // Just for checking
+   // Just for checking the correct time
    echo date('Y-m-d H:i:s T', time()) . "\n\n\n";
 }
 
