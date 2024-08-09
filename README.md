@@ -27,3 +27,8 @@ First open the settings.php file and change the settings. This is very important
 # Run the program
 Run the program from the command line:
 php wspr2sondehub
+
+# notes
+Please, only run wspr2sondehub for balloons that you own yourself or that you have permission for from the owner. 
+Otherwise you might not have the required details to post the correct data. Thanks!
+
